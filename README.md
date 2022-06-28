@@ -30,7 +30,7 @@
 
 * 🔥 2022.6.30 晚20:30，FastDeploy天使用户邀测沟通会，与开发者共同讨论推理部署痛点问题，欢迎大家扫码报名入群获取会议链接。
 <div align="center">
-<img src="https://user-images.githubusercontent.com/54695910/175854075-2c0f9997-ed18-4b17-9aaf-1b43266d3996.jpeg"  width = "150" height = "200" />
+<img src="https://user-images.githubusercontent.com/54695910/175854075-2c0f9997-ed18-4b17-9aaf-1b43266d3996.jpeg"  width = "150" height = "150" />
 </div>
 
 * 🔥 2022.6.27 [**FastDeploy v0.1.0**](https://github.com/PaddlePaddle/FastDeploy/releases/tag/release%2F0.1.0)测试版发布！🎉
